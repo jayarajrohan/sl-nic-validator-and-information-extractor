@@ -1,6 +1,6 @@
 {
   "name": "sl-nic-validator-and-information-extractor",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A function to validate new and old NIC of Sri Lanka and a function to extract information from the NIC",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/jayarajrohan/sl-nic-validator-and-information-extractor#readme",
   "devDependencies": {
-    "typescript": "^5.4.2",
-    "tsup": "^8.0.2"
+    "typescript": "^6.0.3",
+    "tsup": "^8.5.1"
   }
 }
