@@ -1,6 +1,6 @@
 {
   "name": "sl-nic-validator-and-information-extractor",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A function to validate new and old NIC of Sri Lanka and a function to extract information from the NIC",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
